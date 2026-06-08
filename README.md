@@ -154,6 +154,7 @@ Yet, we still recommend you use high-level programming languages to make your co
 | Package | Description |
 |---------|-------------|
 | [near-hydra](https://github.com/nikshepsvn/near-hydra) | All-in-one CLI + MCP server for Chain Signatures and NEAR Intents across 10 chains, built for AI agents |
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | MCP server for AI agent wallet trust scoring on Solana. Verify agent wallet identity before x402 micropayments. Free: `score_agent(wallet)`, `preflight_check(wallet)`. Config: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}` |
 | [near-cli-rs](https://github.com/near/near-cli-rs) | Human-friendly interactive CLI for NEAR Protocol interactions |
 | [create-near-app](https://github.com/near/create-near-app) | Scaffold NEAR dApps with frontend and contract templates |
 | [cargo-near](https://github.com/near/cargo-near) | Cargo extension for building and deploying Rust smart contracts with ABI generation |
